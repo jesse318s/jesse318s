@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesse318s
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning computer programming
+- 👀 I’m interested in computer programming and web development
+- 🌱 I’m currently learning advanced computer programming
 - 💞️ I’m looking to collaborate on web apps
 - 📫 How to reach me ... 
   - LinkedIn: https://www.linkedin.com/in/jesse-sites/
