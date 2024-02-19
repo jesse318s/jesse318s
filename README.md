@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jesse318s
 - 👀 I’m interested in programming and web development
-- 💞️ I’m looking to collaborate on web apps
+- 💞️ I’m looking to collaborate on desktop and web applications
 - 📫 How to reach me ... 
   - LinkedIn: https://www.linkedin.com/in/jesse-sites/
-  - Email: jesse318s@gmail.com
-  - Phone: +1 325-455-4644
