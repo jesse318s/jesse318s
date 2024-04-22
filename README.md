@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jesse318s
+- 👋 Hi, I’m Jesse
 - 👀 I’m interested in programming and web development
 - 💞️ I’m looking to collaborate on desktop and web applications
