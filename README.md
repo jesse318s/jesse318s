@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Jesse
-- 👀 I’m interested in programming and web development
-- 💞️ I’m looking to collaborate on desktop and web applications
+- 👋 Hi, I’m Jes
+- 👀 I’m interested in computer programming and web development
